@@ -15,6 +15,8 @@ Simple bank system built using Python and Object-Oriented Programming.
 - OOP (Class & Object)
 - List of objects
 
+##demo(2).png
+
 ## Example
 
 Nama : Wan  
