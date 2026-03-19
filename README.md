@@ -17,7 +17,7 @@ Simple bank system built using Python and Object-Oriented Programming.
 
 ## Demo
 
-demo (2).png
+![Demo](demo.png)
 
 ## Example
 
